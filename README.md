@@ -1,19 +1,20 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Adam P</h1>
-<h3 align="center">🌐 Web Developer 🚀 Entrepreneur ❄️ Snowboarder</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Adam P.</h1>
+<h3 align="center"> 🌐 Web/App Developer 🚀 Entrepreneur ❄️ Snowboarder </h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning more about **React**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me How **I went from a small business owner to web/app development**
 
-- 📫 How to reach me **apadolsky@gmail.com**
+- 📫 You can reach me at **apadolsky@gmail.com** (but only if it's business hours)
 
-## 🤝 Check out my:
-
-[![portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Portfolio&logoColor=white)](https://adampadolsky.com)
+- 💻 Check out my portfolio **www.adampadolsky.com**
 
 ---
 
-## 💻 Tech Stack
+<!-- ## 🤝 Check out my: [![portfolio](https://img.shields.io/badge/CheckOutMy-Portfolio-00C7B7?style=for-the-badge&logo=Portfolio&logoColor=white)](https://adampadolsky.com) -->
+
+
+### 💻 Tech Stack
 
 [![javascript](https://img.shields.io/badge/JavaScript-00C7B7?style=for-the-badge&logo=javascript&logoColor=white)](https://adampadolsky.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://adampadolsky.com)
@@ -38,7 +39,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-## ⚒️ Tools
+### ⚒️ Tools
 
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://adampadolsky.com)
 [![github](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white)](https://adampadolsky.com)
@@ -49,7 +50,7 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://adampadolsky.com)
 [![mailchimp](https://img.shields.io/badge/mailchimp-ffca28?style=for-the-badge&logo=mailchimp&logoColor=black)](https://adampadolsky.com)
 
-## 🧠 Favorite IDE/text editors
+### 🧠 Favorite IDE/text editors
 
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-00C7B7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://adampadolsky.com)
 [![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://adampadolsky.com)
@@ -59,7 +60,7 @@
 [![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://adampadolsky.com)
 [![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://adampadolsky.com) -->
 
-## 💻 Workspace
+### 💻 Workspace
 
 [![macBook pro](https://img.shields.io/badge/MacBookPro-0078D6?style=for-the-badge&logo=apple&logoColor=white)](https://adampadolsky.com)
 <!-- [![apple monitor](https://img.shields.io/badge/monitor%apple-83B81A?style=for-the-badge&logo=apple&logoColor=white)](https://adampadolsky.com) -->
@@ -68,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats 
+### 📊 GitHub Stats 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=apadolsky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=apadolsky&theme=tokyonight&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apadolsky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
