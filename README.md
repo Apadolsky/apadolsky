@@ -49,7 +49,7 @@
 
 ### ⚒️ Tools
 
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://adampadolsky.com)
+<!-- [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://adampadolsky.com) -->
 [![github](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white)](https://adampadolsky.com)
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://adampadolsky.com)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://adampadolsky.com)
