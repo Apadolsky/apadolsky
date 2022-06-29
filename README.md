@@ -10,7 +10,7 @@
 
 - 🧠 I'm also learning more about **Stripe Connect, React and GSAP (animation)**
 
-- 💬 Ask me How I went from a small business owner to **web/app development**
+- 💬 Ask me how I went from a small business owner to **web/app development**
 
 - 📧 You can reach me at **apadolsky@gmail.com**
 
