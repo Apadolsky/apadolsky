@@ -35,8 +35,6 @@
 ![Vuex](https://img.shields.io/badge/Vuex-%23000000.svg?style=for-the-badge&logo=vuex&logoColor=white) 
 [![capacitor](https://img.shields.io/badge/capacitor-E34F26?style=for-the-badge&logo=capacitor&logoColor=white)](https://adampadolsky.com)
 ![cordova](https://img.shields.io/badge/cordova-%23F24E1E.svg?style=for-the-badge&logo=cordova&logoColor=white) 
-[![react](https://img.shields.io/badge/React-007FFF?style=for-the-badge&logo=react&logoColor=white)](https://adampadolsky.com)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://adampadolsky.com)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://adampadolsky.com)
 [![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://adampadolsky.com)
@@ -48,6 +46,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+  <!-- [![react](https://img.shields.io/badge/React-007FFF?style=for-the-badge&logo=react&logoColor=white)](https://adampadolsky.com) -->
+<!-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  -->
 
 ### ⚒️ Tools
 
