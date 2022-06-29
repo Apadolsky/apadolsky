@@ -8,7 +8,7 @@
 
 - 📱 I’m currently working on my startup **<a href="http://contractor.paintbox.app" target="_blank" rel="noopener noreferrer">Paintbox<a>**
 
-- 🧠 I'm also learning more about **React and GSAP (animation)**
+- 🧠 I'm also learning more about **Stripe Connect, React and GSAP (animation)**
 
 - 💬 Ask me How I went from a small business owner to **web/app development**
 
