@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Adam P. ✌🏼</h1>
 
-<h4 align="center"> 🌐 Web/App Developer 🚀 Entrepreneur ❄️ Snowboarder </h4>
+<h4 align="center"> 🚀 Entrepreneur  🌐 Web/App Developer  ❄️ Snowboarder </h4>
 
 ---
 
