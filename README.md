@@ -31,6 +31,8 @@
 [![quasar](https://img.shields.io/badge/Quasar-F22F46?style=for-the-badge&logo=quasar&logoColor=white)](https://adampadolsky.com)
 [![nuxt](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://adampadolsky.com)
 [![Vuetify](https://img.shields.io/badge/Vuetify-563D7C?style=for-the-badge&logo=vuetify&logoColor=white)](https://adampadolsky.com)
+![Pinia](https://img.shields.io/badge/Pinia-%234285F4.svg?style=for-the-badge&logo=pinia&logoColor=white) 
+![Vuex](https://img.shields.io/badge/Vuex-%23000000.svg?style=for-the-badge&logo=vuex&logoColor=white) 
 [![capacitor](https://img.shields.io/badge/capacitor-E34F26?style=for-the-badge&logo=capacitor&logoColor=white)](https://adampadolsky.com)
 ![cordova](https://img.shields.io/badge/cordova-%23F24E1E.svg?style=for-the-badge&logo=cordova&logoColor=white) 
 [![react](https://img.shields.io/badge/React-007FFF?style=for-the-badge&logo=react&logoColor=white)](https://adampadolsky.com)
