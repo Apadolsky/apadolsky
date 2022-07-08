@@ -8,7 +8,7 @@
 
 - 📱 I’m currently working on my startup **<a href="http://contractor.paintbox.app" target="_blank" rel="noopener noreferrer">Paintbox<a>**
 
-- 🧠 I'm also learning more about **Stripe, React and GSAP (animation)**
+- 🧠 I'm also learning more about **Solidity (https://soliditylang.org)**
 
 - 💬 Ask me how I went from a small business owner to **web/app development**
 
