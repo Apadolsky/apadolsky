@@ -16,33 +16,16 @@
 [![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 
-<!-- ![javascript](https://img.shields.io/badge/JavaScript-00C7B7?style=for-the-badge&logo=javascript&logoColor=white)](https://adampadolsky.com)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://adampadolsky.com)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://adampadolsky.com)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://adampadolsky.com)
-![quasar](https://img.shields.io/badge/Quasar-F22F46?style=for-the-badge&logo=quasar&logoColor=white)](https://adampadolsky.com)
-![Vuetify](https://img.shields.io/badge/Vuetify-563D7C?style=for-the-badge&logo=vuetify&logoColor=white)](https://adampadolsky.com)
-![Vuex](https://img.shields.io/badge/Vuex-%23000000.svg?style=for-the-badge&logo=vuex&logoColor=white)
-![cordova](https://img.shields.io/badge/cordova-%23F24E1E.svg?style=for-the-badge&logo=cordova&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://adampadolsky.com)
-![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://adampadolsky.com)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) -->
-
 ---
 
 ### 🧰 Tools
 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23F22F46.svg?style=for-the-badge&logo=openai&logoColor=white)
+[![OpenAI](https://img.shields.io/badge/OpenAI-%23F22F46.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%23007FFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-%23FFCA28.svg?style=for-the-badge&logo=mailchimp&logoColor=black)
+[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://netilify.com)
+[![Stripe](https://img.shields.io/badge/Stripe-%23007FFF.svg?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
+[![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white)](https://twilio.com)
+[![Mailchimp](https://img.shields.io/badge/Mailchimp-%23FFCA28.svg?style=for-the-badge&logo=mailchimp&logoColor=black)](https://mailchimp.com)
 
 ---
 
