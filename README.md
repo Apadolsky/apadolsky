@@ -8,13 +8,13 @@
 
 ### 💻 Perfered Tech Stack
 
-![vue3](https://img.shields.io/badge/Vue-00C7B7?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![nuxt3](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![capacitor](https://img.shields.io/badge/capacitor-E34F26?style=for-the-badge&logo=capacitor&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-%234285F4.svg?style=for-the-badge&logo=pinia&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[![vue3](https://img.shields.io/badge/Vue-00C7B7?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![nuxt3](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://vuejs.org)
+[![capacitor](https://img.shields.io/badge/capacitor-E34F26?style=for-the-badge&logo=capacitor&logoColor=white)](https://capacitorjs.com)
+[![Pinia](https://img.shields.io/badge/Pinia-%234285F4.svg?style=for-the-badge&logo=pinia&logoColor=white)](https://pinia.vuejs.org)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwind.css)
+[![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 
 <!-- ![javascript](https://img.shields.io/badge/JavaScript-00C7B7?style=for-the-badge&logo=javascript&logoColor=white)](https://adampadolsky.com)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://adampadolsky.com)
@@ -38,10 +38,10 @@
 ### 🧰 Tools
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23F22F46.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badgee&logo=netlify&logoColor=white)
+[![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%23007FFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badgee&logo=twilio&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white)
 ![Mailchimp](https://img.shields.io/badge/Mailchimp-%23FFCA28.svg?style=for-the-badge&logo=mailchimp&logoColor=black)
 
 ---
