@@ -4,12 +4,12 @@
 
 I'm a passionate developer with a flair for creating innovative solutions. Currently, I'm working on my startup [PaintBox](http://getpaintbox.com) where I offer the following products:
 
-- <a href="http://get.tradeboxpro.app" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="24" height="24" style="border-radius: 50%; margin-right: 5px;"/>
+- <a href="http://get.tradeboxpro.app">
+    <img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="24" height="24"/>
     <span style="text-align: center;">TradeBox</span>
   </a> - A cutting-edge platform for Contractors and Tradesmen.
-- <a href="http://get.paintbox.app" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="24" height="24" style="border-radius: 50%; margin-right: 5px;"/>
+- <a href="http://get.paintbox.app">
+    <img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="24" height="24"/>
     <span style="text-align: center;">PaintBox</span>
   </a> - A revolutionary App for Professional Painters.
 
