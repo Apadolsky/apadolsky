@@ -64,8 +64,6 @@
 <!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://adampadolsky.co)
 [![apple monitor](https://img.shields.io/badge/acer%apple-83B81A?style=for-the-badge&logo=apple&logoColor=white)](https://adampadolsky.co) -->
 
----
-
 <!-- ### 📊 GitHub Stats  -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=apadolsky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=apadolsky&theme=tokyonight&hide_border=true)<br/>  -->
