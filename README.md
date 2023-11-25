@@ -9,7 +9,7 @@
 ### 💻 Perfered Tech Stack
 
 ![vue3](https://img.shields.io/badge/Vue-00C7B7?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![nuxt](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![nuxt3](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![capacitor](https://img.shields.io/badge/capacitor-E34F26?style=for-the-badge&logo=capacitor&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-%234285F4.svg?style=for-the-badge&logo=pinia&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
