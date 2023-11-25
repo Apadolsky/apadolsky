@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Adam P. ✌🏼</h1>
 
-<h4 align="center"> 🚀 Entrepreneur   💾 Full Stack Developer   ❄️ Snowboarder </h4>   
+<!-- <h4 align="center"> 🚀 Entrepreneur 💾 Full Stack Developer ❄️ Snowboarder </h4> -->
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-<!-- ## 🤝 Check out my: [![portfolio](https://img.shields.io/badge/CheckOutMy-Portfolio-00C7B7?style=for-the-badge&logo=Portfolio&logoColor=white)](https://adampadolsky.com) -->
+ ## 🤝 Check out my: [![portfolio](https://img.shields.io/badge/CheckOutMy-Portfolio-00C7B7?style=for-the-badge&logo=Portfolio&logoColor=white)](https://adampadolsky.com)
 
 
 ### 💻 Tech Stack
