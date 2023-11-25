@@ -8,10 +8,6 @@
 
 - 📱 I’m currently working on my startup PaintBox where I offer the following products -> **<a href="http://get.tradeboxpro.app" target="_blank" rel="noopener noreferrer">TradeBox<a>** & **<a href="http://getpaintbox.com" target="_blank" rel="noopener noreferrer">PaintBox<a>**
 
-- 💬 Ask me how I went from a small business owner to **web/app development**
-
-- 📧 You can reach me at **apadolsky@gmail.com**
-
 - 💻 Check out my portfolio **<a href="http://adampadolsky.com" target="_blank" rel="noopener noreferrer">AdamPadolsky.com<a>**
 
 ---
