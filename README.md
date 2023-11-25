@@ -14,7 +14,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%230053C1.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-%2320232A.svg?style=for-the-badge&logo=quasar&logoColor=white)
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231B72BB.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -41,10 +40,10 @@
 
 ### ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&count_private=true&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apadolsky&count_private=true&show_icons=true&theme=radical)
 
 ---
 
 ### 📚 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&langs_count=6&theme=radical)](https://github.com/[Your GitHub Username])
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apadolsky&layout=compact&langs_count=6&theme=radical)](https://github.com/apadolsky)
