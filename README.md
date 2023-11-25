@@ -9,17 +9,11 @@
 ### 💻 Perfered Tech Stack
 
 ![vue3](https://img.shields.io/badge/Vue-00C7B7?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
 ![nuxt](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-
 ![capacitor](https://img.shields.io/badge/capacitor-E34F26?style=for-the-badge&logo=capacitor&logoColor=white)
-
 ![Pinia](https://img.shields.io/badge/Pinia-%234285F4.svg?style=for-the-badge&logo=pinia&logoColor=white)
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <!-- ![javascript](https://img.shields.io/badge/JavaScript-00C7B7?style=for-the-badge&logo=javascript&logoColor=white)](https://adampadolsky.com)
@@ -38,9 +32,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) -->
-
-
-
 
 ---
 
