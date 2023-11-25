@@ -33,9 +33,3 @@
 ### ⚡ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apadolsky&count_private=true&show_icons=true&theme=radical)
-
----
-
-### 📚 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apadolsky&layout=compact&langs_count=6&theme=radical)](https://github.com/apadolsky)
