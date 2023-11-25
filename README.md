@@ -8,11 +8,11 @@
 
 ### 💻 Perfered Tech Stack
 
-![vue3](https://img.shields.io/badge/Vue-00C7B7?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://adampadolsky.com)
+![vue3](https://img.shields.io/badge/Vue-00C7B7?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-![nuxt](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://adampadolsky.com)
+![nuxt](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-![capacitor](https://img.shields.io/badge/capacitor-E34F26?style=for-the-badge&logo=capacitor&logoColor=white)](https://adampadolsky.com)
+![capacitor](https://img.shields.io/badge/capacitor-E34F26?style=for-the-badge&logo=capacitor&logoColor=white)
 
 ![Pinia](https://img.shields.io/badge/Pinia-%234285F4.svg?style=for-the-badge&logo=pinia&logoColor=white)
 
@@ -20,7 +20,7 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://adampadolsky.com)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <!-- ![javascript](https://img.shields.io/badge/JavaScript-00C7B7?style=for-the-badge&logo=javascript&logoColor=white)](https://adampadolsky.com)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://adampadolsky.com)
