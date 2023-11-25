@@ -4,16 +4,12 @@
 
 <!-- <h4 align="center"> 🚀 Entrepreneur 💾 Full Stack Developer ❄️ Snowboarder </h4> -->
 
----
 
 - 📱 I’m currently working on my startup PaintBox where I offer the following products -> **<a href="http://get.tradeboxpro.app" target="_blank" rel="noopener noreferrer">TradeBox<a>** & **<a href="http://getpaintbox.com" target="_blank" rel="noopener noreferrer">PaintBox<a>**
 
 - 💻 Check out my portfolio **<a href="http://adampadolsky.com" target="_blank" rel="noopener noreferrer">AdamPadolsky.com<a>**
 
 ---
-
- ## 🤝 Check out my: [![portfolio](https://img.shields.io/badge/CheckOutMy-Portfolio-00C7B7?style=for-the-badge&logo=Portfolio&logoColor=white)](https://adampadolsky.com)
-
 
 ### 💻 Tech Stack
 
