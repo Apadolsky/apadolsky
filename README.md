@@ -1,6 +1,6 @@
 ---
 
-### <h1 align="center">### Hi, I'm Adam P. ✌🏼</h1>
+### <h1 align="center">Hi, I'm Adam P. ✌🏼</h1>
 
 
 
