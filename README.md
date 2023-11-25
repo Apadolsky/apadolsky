@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Adam ✌️</h1>
 
-- 📱 I’m currently working on my startup [PaintBox](http://getpaintbox.com) where I offer the following products -> **[<img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="36" height="36" style="border-radius:'8px'"/>](http://get.tradeboxpro.app)** & **[PaintBox](http://getpaintbox.com)**
+### Hi! I'm Adam Padolsky 👋
 
-- 💼 I'm a passionate developer with a flair for creating innovative solutions. Check out my portfolio **[AdamPadolsky.com](http://adampadolsky.com)**
+I'm a passionate developer with a flair for creating innovative solutions. Currently, I'm working on my startup [PaintBox](http://getpaintbox.com) where I offer the following products:
 
+- **[<img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="24" height="24" style="vertical-align: middle;"/> TradeBox](http://get.tradeboxpro.app)** - A cutting-edge platform for Contractors and Tradesmen.
+- - **[<img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="24" height="24" style="vertical-align: middle;"/> PaintBox](http://get.tradeboxpro.app)** - A revolutionary App for Professional Painters.
+
+Feel free to check out my [portfolio website](http://adampadolsky.com) for more information about me and my work.
 ---
 
 ### Perfered Technology Stack
