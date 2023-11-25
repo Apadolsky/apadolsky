@@ -27,9 +27,3 @@
 [![Stripe](https://img.shields.io/badge/Stripe-%23007FFF.svg?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
 [![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white)](https://twilio.com)
 [![Mailchimp](https://img.shields.io/badge/Mailchimp-%23FFCA28.svg?style=for-the-badge&logo=mailchimp&logoColor=black)](https://mailchimp.com)
-
----
-
-### ⚡ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apadolsky&count_private=true&show_icons=true&theme=radical)
