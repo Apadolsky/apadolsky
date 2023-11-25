@@ -46,7 +46,7 @@
 
 ### 🧰 Tools
 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23F22F46.svg?style=flat-square&logo=twilio&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23F22F46.svg?style=flat-square&logo=openai&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%23007FFF.svg?style=flat-square&logo=stripe&logoColor=white)
