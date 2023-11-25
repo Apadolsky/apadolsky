@@ -37,12 +37,12 @@
 
 ### 🧰 Tools
 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23F22F46.svg?style=flat-square&logo=openai&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%23007FFF.svg?style=flat-square&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=flat-square&logo=twilio&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-%23FFCA28.svg?style=flat-square&logo=mailchimp&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23F22F46.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badgee&logo=netlify&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%23007FFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badgee&logo=twilio&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-%23FFCA28.svg?style=for-the-badge&logo=mailchimp&logoColor=black)
 
 ---
 
