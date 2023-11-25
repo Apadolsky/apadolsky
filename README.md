@@ -2,13 +2,11 @@
 
 <h1 align="center">Hi, I'm Adam P. ✌🏼</h1>
 
-<h4 align="center"> 🚀 Entrepreneur  🌐 Web/App Developer  ❄️ Snowboarder </h4>
+<h4 align="center"> 🚀 Entrepreneur  💾 Full Stack Developer  ❄️ Snowboarder </h4>   
 
 ---
 
-- 📱 I’m currently working on my startup **<a href="http://contractor.paintbox.app" target="_blank" rel="noopener noreferrer">Paintbox<a>**
-
-- 🧠 I'm also learning more about **Solidity (https://soliditylang.org)**
+- 📱 I’m currently working on my startup PaintBox where I offer the following products -> **<a href="http://get.tradeboxpro.app" target="_blank" rel="noopener noreferrer">TradeBox<a>** & **<a href="http://getpaintbox.com" target="_blank" rel="noopener noreferrer">PaintBox<a>**
 
 - 💬 Ask me how I went from a small business owner to **web/app development**
 
