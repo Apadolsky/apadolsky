@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam ✌️</h1>
 
-- 📱 I’m currently working on my startup [PaintBox](http://getpaintbox.com) where I offer the following products -> **[<img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="200" height="200" />](http://get.tradeboxpro.app)** & **[PaintBox](http://getpaintbox.com)**
+- 📱 I’m currently working on my startup [PaintBox](http://getpaintbox.com) where I offer the following products -> **[<img src="https://get.tradeboxpro.app/assets/tradebox-icon-orange-shadow-ccfa09a1.png" alt="" width="36" height="36" style="border-radius:'8px'"/>](http://get.tradeboxpro.app)** & **[PaintBox](http://getpaintbox.com)**
 
 - 💼 I'm a passionate developer with a flair for creating innovative solutions. Check out my portfolio **[AdamPadolsky.com](http://adampadolsky.com)**
 
