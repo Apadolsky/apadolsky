@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Perfered Technology Stack
+### Perfered Technology Stack
 
 [![vue3](https://img.shields.io/badge/Vue-00C7B7?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
 [![nuxt3](https://img.shields.io/badge/Nuxt-0769AD?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://vuejs.org)
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧰 Tools
+### Tools
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-%23F22F46.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
