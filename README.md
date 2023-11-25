@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] ✌️</h1>
+<h1 align="center">Hi, I'm Adam ✌️</h1>
 
 - 📱 I’m currently working on my startup [PaintBox](http://getpaintbox.com) where I offer the following products -> **[TradeBox](http://get.tradeboxpro.app)** & **[PaintBox](http://getpaintbox.com)**
 
