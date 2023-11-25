@@ -4,7 +4,7 @@
 
 I'm a passionate developer with a flair for creating innovative solutions. Currently, I'm working on my startup [PaintBox](http://getpaintbox.com) where I offer the following products:
 
-- [TradeBox: App for Contractors](http://get.tradeboxpro.app) - A cutting-edge project management platform for Contractors and Tradesmen.
+- [TradeBox: App for Contractors](http://get.tradeboxpro.app) - An AI enhanced project management platform for Contractors and Tradesmen.
 - [PaintBox: App for Painters](http://get.paintbox.app) - A revolutionary estimating and project management app for Professional Painters.
 
 Feel free to check out my [portfolio website](http://adampadolsky.com) for more information about me and my work.
